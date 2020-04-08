@@ -8,7 +8,8 @@
     ],
   },
   "storyesData":{    
-    {
+    "data":[
+      {
         "id":"", 
         "name":"", 
         "author":"", 
@@ -21,9 +22,11 @@
           ""
          ]
         },
+    ]
   },
   "favoriteData":{
-    {
+    "data":[
+      {
         "id":"", 
         "name":"", 
         "author":"", 
@@ -36,5 +39,6 @@
           ""
          ]
         },
+    ]
   }
 }
