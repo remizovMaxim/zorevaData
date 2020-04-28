@@ -38,11 +38,37 @@
     "storyesData":{    
       "data":[
         {
-          "id":"", 
-          "name":"", 
-          "author":"", 
-          "year":"", 
-          "book":"", 
+          "id":"1", 
+          "name":"Мемуары гадалки. Часть 1", 
+          "author":"Зорева Людмила", 
+          "year":"2008", 
+          "book":"Мемуары гадалки", 
+          "background":"", 
+          "isFavorite":false, 
+          "text":[
+            "",
+            ""
+           ]
+          },
+          {
+          "id":"2", 
+          "name":"Мемуары гадалки. Часть 2", 
+          "author":"Зорева Людмила", 
+          "year":"2009", 
+          "book":"Мемуары гадалки", 
+          "background":"", 
+          "isFavorite":false, 
+          "text":[
+            "",
+            ""
+           ]
+          },
+          {
+          "id":"3", 
+          "name":"Мемуары гадалки. Часть 3", 
+          "author":"Зорева Людмила", 
+          "year":"2009", 
+          "book":"Мемуары гадалки", 
           "background":"", 
           "isFavorite":false, 
           "text":[
@@ -51,23 +77,6 @@
            ]
           }
       ]
-    },
-    "favoriteData":{
-      "data":[
-        {
-          "id":"", 
-          "name":"", 
-          "author":"", 
-          "year":"", 
-          "book":"", 
-          "background":"", 
-          "isFavorite":false, 
-          "text":[
-            "",
-            ""
-           ]
-          }
-      ]
-    }
+    }    
   }
   
